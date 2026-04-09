@@ -1,15 +1,6 @@
-field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
-rightsstatement,Rights Statement,,true
+objectid,title,creator,date,description,subject,format,file
+hcm001,Knoxville Mutual Aid Pantry Flyer,Hilltop residents,2020,"Flyer calling for food donations and volunteers in Knoxville neighborhood","Mutual aid; Food distribution; Community networks",image,hcm001.jpg
+hcm010,Saint Clair Mutual Aid Signup Sheet,Hilltop residents,2020,"Signup sheet documenting volunteers offering support to neighbors","Mutual aid; Volunteerism; Community care",image,hcm010.jpg
+hcm026,Allentown Mutual Aid Spreadsheet,Hilltop organizers,2020,"Spreadsheet used to coordinate resources, requests, and deliveries","Mutual aid; Information sharing; Grassroots organizing",image,hcm026.jpg
+hcm021,Carrick Mutual Aid Facebook Post,Hilltop residents,2020,"Social media post sharing urgent needs and coordinating responses","Social media; Mutual aid; Communication networks",image,hcm021.jpg
+hcm005,Arlington Mutual Aid Oral History,Hilltop resident,2021,"Oral history describing lived experience participating in mutual aid efforts","Oral histories; Community memory; Mutual aid",audio,hcm005.mp3
