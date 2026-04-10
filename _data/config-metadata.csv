@@ -1,6 +1,6 @@
-objectid,filename,title,format
-hcm001,hcm001.jpg,Knoxville Mutual Aid Pantry Flyer,image/jpeg
-hcm010,hcm010.pdf,Saint Clair Mutual Aid Signup Sheet,application/pdf
-hcm026,hcm026.pdf,Allentown Mutual Aid Spreadsheet,application/pdf
-hcm021,hcm021.jpg,Carrick Mutual Aid Facebook Post,image/jpeg
-hcm005,hcm005.pdf,Arlington Mutual Aid Oral History Transcript,application/pdf
+objectid,filename,title,format,date,date_span,subject,location
+hcm001,hcm001.jpg,Knoxville Mutual Aid Pantry Flyer,image/jpeg,2020-04-01,"Early pandemic response (Spring 2020)","Mutual aid; Food distribution; Community care","Knoxville; Pittsburgh"
+hcm010,hcm010.pdf,Saint Clair Mutual Aid Signup Sheet,application/pdf,2020-05-15,"Expansion of volunteer networks (May 2020)","Mutual aid; Volunteerism; Neighborhood support","Saint Clair; Pittsburgh"
+hcm026,hcm026.pdf,Allentown Mutual Aid Spreadsheet,application/pdf,2020-06-30,"Coordination and infrastructure building (Summer 2020)","Mutual aid; Information sharing; Grassroots organizing","Allentown; Pittsburgh"
+hcm021,hcm021.jpg,Carrick Mutual Aid Facebook Post,image/jpeg,2020-07-20,"Digital coordination and outreach (Mid 2020)","Social media; Mutual aid; Communication networks","Carrick; Pittsburgh"
+hcm005,hcm005.pdf,Arlington Mutual Aid Oral History Transcript,application/pdf,2021-02-10,"Reflection and memory (Early 2021)","Oral histories; Community memory; Mutual aid","Arlington; Pittsburgh"
