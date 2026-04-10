@@ -1,6 +1,6 @@
-objectid,filename,title,format,date,subject,description,creator
-hcm001,hcm001.jpg,Knoxville Mutual Aid Pantry Flyer,image/jpeg,2020,"Mutual aid; Food distribution; Community networks","Flyer calling for food donations and volunteers in Knoxville neighborhood",Hilltop residents
-hcm010,hcm010.pdf,Saint Clair Mutual Aid Signup Sheet,application/pdf,2020,"Mutual aid; Volunteerism; Community care","Signup sheet documenting volunteers offering support to neighbors",Hilltop residents
-hcm026,hcm026.pdf,Allentown Mutual Aid Spreadsheet,application/pdf,2020,"Mutual aid; Information sharing; Grassroots organizing","Spreadsheet used to coordinate resources, requests, and deliveries",Hilltop organizers
-hcm021,hcm021.jpg,Carrick Mutual Aid Facebook Post,image/jpeg,2020,"Social media; Mutual aid; Communication networks","Social media post sharing urgent needs and coordinating responses",Hilltop residents
-hcm005,hcm005.pdf,Arlington Mutual Aid Oral History Transcript,application/pdf,2021,"Oral histories; Community memory; Mutual aid","Transcript of oral history describing lived experience participating in mutual aid efforts",Hilltop resident
+objectid,filename,title,format
+hcm001,hcm001.jpg,Knoxville Mutual Aid Pantry Flyer,image/jpeg
+hcm010,hcm010.pdf,Saint Clair Mutual Aid Signup Sheet,application/pdf
+hcm026,hcm026.pdf,Allentown Mutual Aid Spreadsheet,application/pdf
+hcm021,hcm021.jpg,Carrick Mutual Aid Facebook Post,image/jpeg
+hcm005,hcm005.pdf,Arlington Mutual Aid Oral History Transcript,application/pdf
